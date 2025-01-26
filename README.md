@@ -71,28 +71,33 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 
 - **User Authentication:** Users can sign up, log in, and log out securely. Passwords are hashed for security.
 - **Google Login:** Users can sign up and log in using their gmail.
-
-  ![Airbnb Logo](client/public/assets/auth.png)
+  
+![auth](https://github.com/user-attachments/assets/83a2b930-2af3-4ccd-a20c-65410b96cfc1)
 
 - **Search Listings:** Users can search for accommodations.
 
-  ![Airbnb Logo](client/public/assets/search.png)
+ ![search](https://github.com/user-attachments/assets/e43d395b-7659-4531-b3f1-b9f3719fee3c)
+
 
 - **View Listings:** Users can view detailed information about each accommodation, including photos, descriptions, amenities.
 
-  ![Airbnb Logo](client/public/assets/view.png)
+  ![view](https://github.com/user-attachments/assets/6b7e91f3-243e-4182-858e-c094dcf9ccc2)
+
 
 - **Make Bookings:** Authenticated users can book accommodations for specific dates.
 
-  ![Airbnb Logo](client/public/assets/book.png)
+ ![book](https://github.com/user-attachments/assets/5266e495-0f92-40b4-bbe7-168f388133f2)
+
 
 - **Manage Listings:** Hosts can create, edit, and delete their listings.
 
-  ![Airbnb Logo](client/public/assets/manage.png)
+ ![manage](https://github.com/user-attachments/assets/0eed6307-1673-489e-9b3c-5b44282c5b14)
+
 
 - **Responsive Design:** The application is designed to be responsive and work seamlessly across different devices.
 
-  ![Airbnb Logo](client/public/assets/hero.png)
+  ![hero](https://github.com/user-attachments/assets/5bfa5053-e841-48f3-8f46-2ae3e886c4ce)
+
 
 ## Technologies Used
 
